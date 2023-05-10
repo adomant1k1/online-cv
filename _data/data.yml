@@ -63,9 +63,9 @@ experiences:
     title: Experiences
     info:
      - role: Frontend Developer
-        time: 2022 - Present
-        company: T1 Consulting, Moscow
-        details: |
+       time: 2022 - Present
+       company: T1 Consulting, Moscow
+       details: |
           Taking part in the development of a CRM system for the banking process Collection as an outsourcing force for the top3 Russian bank
       - role: Frontend Developer
         time: 2019 - 2022
