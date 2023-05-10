@@ -62,7 +62,7 @@ education:
 experiences:
     title: Experiences
     info:
-     - role: Frontend Developer
+      - role: Frontend Developer
        time: 2022 - Present
        company: T1 Consulting, Moscow
        details: |
