@@ -63,28 +63,28 @@ experiences:
     title: Experiences
     info:
       - role: Frontend Developer
-       time: 2022 - Present
-       company: T1 Consulting, Moscow
-       details: |
-          Taking part in the development of a CRM system for the banking process Collection as an outsourcing force for the top3 Russian bank
+        time: 2022 - Present
+        company: T1 Consulting, Moscow
+        details: |
+          Taking part in the development of a CRM system for the banking process Collection for the top3 Russian bank
       - role: Frontend Developer
         time: 2019 - 2022
         company: Waveaccess, Russia
         details: |
           Worked on various projects as an outsourcing force.  
             - For UST Global developed platforms Dagility, Marketplace 
-                which included integration witр an extensive number of
-                web and ML services for project work, monitoring and analysis.
+              which included integration witр an extensive number of
+              web and ML services for project work, monitoring and analysis.
             - For Dell took part in developmnent of some features in the 
-                Virutal Security Consultant project
+              Virutal Security Consultant project
             - For Health Samurai developed an MVP of a portal for making
-                appointments with a doctor in polyclinics
+              appointments with a doctor in polyclinics
       - role: Data Engineer
         time: 2019 - 2019
         company: Sberbank, Samara
         details: |
           Data engineer & Auditor of the Corporate Business Audit Department.
-            Data engineering (SQL), department business process automation (Python).
+          Data engineering (SQL), department business process automation (Python).
             - Developed a script for automated search for a fraud case using PDF scans of contracts
             - Prepared reports from multiple systems for audits
       - role: Frontend developer
