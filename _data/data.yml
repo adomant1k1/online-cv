@@ -13,7 +13,7 @@ sidebar:
 
     # Sidebar links
     email: adomant1k1@gmail.com 
-    phone: +7 (917) 110 - 14 - 32
+    phone: +7 9171101432
     timezone: Russia/Moscow GMT+3
     citizenship: Russian Federation
     linkedin: adomant1k1
@@ -109,6 +109,9 @@ skills:
         level: 95%
 
       - name: Java
+        level: 50%
+        
+      - name: Python (Django/Flask)
         level: 50%
 
 footer: >
